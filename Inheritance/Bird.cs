@@ -16,5 +16,7 @@ namespace Inheritance
         public bool LaysEggs { get; set; }
 
         public bool HasCage { get; set; }
+
+        
     }
 }

@@ -14,5 +14,9 @@ namespace Inheritance
         public int EyeCount { get; set; }
 
         public int ArmCount { get; set; }
+
+        
     }
 }
+
+    
